@@ -40,7 +40,7 @@ header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
-/*added main to Css to use flex properties on the contents within the main tag*/
+/*added main to Css to use flex properties on the contents within the main*/
 main {
     display: flex;
     justify-content: space-between;
