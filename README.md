@@ -35,7 +35,7 @@ Patrick Walker:
 ###### Links:
 
 
-![refactored website demo](assets\images\demo-horiseon-website.jpg)
+![refactored website demo](assets/images/demo-horiseon-website.jpg)
 
 
 
