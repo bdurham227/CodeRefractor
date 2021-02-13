@@ -34,7 +34,7 @@ Patrick Walker:
 
 ###### Links:
 
-[refactored website demo]("assets\images\demo-horiseon-website.jpg")
+[refactored website demo]<img src="(assets\images\demo-horiseon-website.jpg)" />
 
 Link to Github website:
 https://bdurham227.github.io/CodeRefractor/
